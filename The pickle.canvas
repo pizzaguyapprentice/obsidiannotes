@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"85e50dc484e9571a","x":-135,"y":-100,"width":400,"height":400,"type":"file","file":"remote-blog/README.md"},
+		{"id":"eeca3861ef7f679c","x":-260,"y":-240,"width":250,"height":60,"type":"text","text":"THis is it"}
+	],
+	"edges":[]
+}
